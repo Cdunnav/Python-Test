@@ -1,1 +1,1 @@
-print ('This is the second test, on this piece of shit language')
+print ('This is not the second test, on this piece of shit language')
